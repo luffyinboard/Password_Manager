@@ -3,7 +3,7 @@ import string
 import random
 import hashlib
 
-file_path = "/Users/vipulsingh/Desktop/user_credentials.csv"
+file_path = "user_credentials.csv"
 
 # This will return a password with a mix of ASCII characters, numbers, and special characters
 def password_Gen():
